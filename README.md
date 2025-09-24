@@ -22,3 +22,4 @@ Frontend: HTML5, CSS3, JavaScript (Vanilla)
 Deployment: Vercel
 
 🌐 Demo
+https://simple-landing-page-kopi-kenangan.vercel.app/
