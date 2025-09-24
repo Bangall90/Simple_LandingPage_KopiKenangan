@@ -1,4 +1,4 @@
-#☕ Kopi Kenangan - Landing Page
+☕ Kopi Kenangan - Landing Page
 
 Landing page resmi untuk Kopi Kenangan, dirancang dengan fokus pada desain sederhana, responsif, dan performa tinggi.
 Website ini menampilkan informasi brand, menu, promo, serta kemudahan akses bagi pelanggan.
