@@ -1,7 +1,7 @@
 ☕ Kopi Kenangan - Landing Page
 
 Landing page resmi untuk Kopi Kenangan, dirancang dengan fokus pada desain sederhana, responsif, dan performa tinggi.
-Website ini menampilkan informasi brand, menu, promo, serta kemudahan akses bagi pelanggan.
+Website ini menampilkan informasi brand, menu, promo, serta kemudahan akses bagi pelanggan.  
 
 🚀 Fitur
 
@@ -13,13 +13,13 @@ Daftar menu kopi dan minuman
 
 Form kontak
 
-Animasi halus untuk pengalaman pengguna lebih menarik
+Animasi halus untuk pengalaman pengguna lebih menarik  
 
 🛠️ Teknologi
 
 Frontend: HTML5, CSS3, JavaScript (Vanilla)
 
-Deployment: Vercel
+Deployment: Vercel  
 
 🌐 Demo
 https://simple-landing-page-kopi-kenangan.vercel.app/
